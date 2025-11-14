@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit3161&label=Profile%20views&color=0e75b6&style=flat" alt="sumit3161" /> </p>
 
-- 🔭 I’m currently working on **college admission predictor**
+- 🔭 I made several projects using backend and frontend and also made projects of data analyst. 
 
-- 🌱 I’m currently learning **Python, Python libraries, Tableau, Power BI**
+- 🌱 I have learned **SQL, Python, Python libraries, Data Visualization, Power BI, Tableau, Pandas, Excel, Data Analytics**
+                  **Object Oriented Programming, Operating Software, DBMS, Data Structures and Algorithms HTML, CSS, Bootstrap, React.js, Node.js, Express.js**
 
 - 📫 How to reach me **sumitbsb2002@gmail.com**
 
